@@ -1,0 +1,14 @@
+*.class
+
+bin/
+gen/
+
+*.iml
+*.ipr
+*.iws
+.idea/
+
+.gradletasknamecache
+.gradle/
+build/
+bin/
